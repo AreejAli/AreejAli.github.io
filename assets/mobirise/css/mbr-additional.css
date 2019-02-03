@@ -1796,6 +1796,10 @@ body {
 .cid-rgCdZ4GnPr B {
   color: #fff000;
 }
+.cid-rgCdZ4GnPr .mbr-text,
+.cid-rgCdZ4GnPr .mbr-section-btn B {
+  color: #ffffff;
+}
 .cid-rgCenCmBPr {
   padding-top: 90px;
   padding-bottom: 90px;
